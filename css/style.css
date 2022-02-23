@@ -24,7 +24,7 @@ nav{
 article{
     width: 20%;
     min-height: 600px;
-    background-color: orange;
+    background-color: #fff;
     float: left;
 }
  article ul li {
