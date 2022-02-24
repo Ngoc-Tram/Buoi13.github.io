@@ -24,7 +24,7 @@ nav{
 article{
     width: 20%;
     min-height: 600px;
-    background-color: #fff;
+    background-color: orange;
     float: left;
 }
  article ul li {
@@ -41,7 +41,7 @@ article a {
 aside{
     width: 80%;
     min-height: 600px;
-    background-color: orange;
+    background-color: #fff;
     float: left;
 }
 footer{
